@@ -12,3 +12,4 @@ cryptography>=44.0
 drf-spectacular>=0.28
 django-filter>=25.1
 argon2-cffi>=23.1
+requests>=2.31
