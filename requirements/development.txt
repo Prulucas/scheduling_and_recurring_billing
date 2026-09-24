@@ -1,0 +1,6 @@
+-r base.txt
+pytest
+pytest-django
+pytest-asyncio
+factory-boy
+faker
